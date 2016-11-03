@@ -1,0 +1,73 @@
+{
+  "project_info": {
+    "project_number": "1088231680469",
+    "firebase_url": "https://crudfire-e1fb5.firebaseio.com",
+    "project_id": "crudfire-e1fb5",
+    "storage_bucket": "crudfire-e1fb5.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1088231680469:android:3b66b756d9dabc4a",
+        "android_client_info": {
+          "package_name": "br.com.crudfirebase.crudfirebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1088231680469-8l12s3gmv1icm2v384sjln2ja242pd0g.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA8-HenAVihASvnkbIW4p-k8EzWLL75_ew"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1088231680469:android:5a8da99107152498",
+        "android_client_info": {
+          "package_name": "firebase.com.pixelsquare.firebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1088231680469-8l12s3gmv1icm2v384sjln2ja242pd0g.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA8-HenAVihASvnkbIW4p-k8EzWLL75_ew"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
